@@ -1469,23 +1469,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Lorenzo\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\juret\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\CesiASP\\UberScan\\UberScan.csproj",
+      "projectUniqueName": "C:\\Mémoire\\CESI\\.NET\\UberScan\\UberScan.csproj",
       "projectName": "UberScan",
-      "projectPath": "E:\\CesiASP\\UberScan\\UberScan.csproj",
-      "packagesPath": "C:\\Users\\Lorenzo\\.nuget\\packages\\",
-      "outputPath": "E:\\CesiASP\\UberScan\\obj\\",
+      "projectPath": "C:\\Mémoire\\CESI\\.NET\\UberScan\\UberScan.csproj",
+      "packagesPath": "C:\\Users\\juret\\.nuget\\packages\\",
+      "outputPath": "C:\\Mémoire\\CESI\\.NET\\UberScan\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Lorenzo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\juret\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"

@@ -80,3 +80,5 @@ E:\CesiASP\UberScan\obj\Debug\net5.0\UberScan.dll
 E:\CesiASP\UberScan\obj\Debug\net5.0\ref\UberScan.dll
 E:\CesiASP\UberScan\obj\Debug\net5.0\UberScan.pdb
 E:\CesiASP\UberScan\obj\Debug\net5.0\UberScan.genruntimeconfig.cache
+E:\CesiASP\UberScan\obj\Debug\net5.0\Razor\Views\Chat\Index.cshtml.g.cs
+E:\CesiASP\UberScan\bin\Debug\net5.0\libman.json
